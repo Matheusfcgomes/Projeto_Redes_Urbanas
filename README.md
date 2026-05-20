@@ -6,7 +6,7 @@
 
 **Autores:** Matheus Fernandes e Thales Varela
 
-🎥 **Vídeo de apresentação (Loom):** `<adicionar link aqui>`
+🎥 **Vídeo de apresentação (Loom):** `https://www.loom.com/share/5e25a52f840a405caeb1a2c910760cb0`
 
 ---
 
